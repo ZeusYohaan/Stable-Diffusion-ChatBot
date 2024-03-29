@@ -95,5 +95,5 @@ class ChatBot:
 # if __name__ == "__main__":
 #     query = "Outpaint the below image"
 #     sample_image_bytes = b'your_image_bytes_here'
-#     chatbot = ChatBot(model_name="gpt-3.5-turbo-0613", api_key="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")
+#     chatbot = ChatBot(model_name="gpt-3.5-turbo-0613", api_key="')
 #     print(chatbot.process_message(query, image_bytes=sample_image_bytes))
