@@ -3,7 +3,7 @@ import requests
 
 class OutpaintAPI:
     def __init__(self, image_data):
-        self.url = 'https://niiab.navan.ai/sdxl/outpainting-langchain'
+        self.url = ''
         self.image_data = image_data
 
     def outpend_image(self):
